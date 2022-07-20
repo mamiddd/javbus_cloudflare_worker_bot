@@ -1,4 +1,4 @@
 workers_dev = true
-name = "bot2"
+name = "tgbot"
 type = "webpack"
 account_id = "91359231efd6d60a24856eb47fc61e81"
